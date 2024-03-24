@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/29626078a1324cf58ce2a.jpg">
+  <img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAI4TWX_u9wKvA6HOJnYRNXuLdI9itSYAAIWvTEbYVn4V53kfeQqeLphAQADAgADeAADNAQ">
 </p>
 
 <p align="center">
